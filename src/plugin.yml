@@ -1,0 +1,12 @@
+# Copyright (c) 2018-$today.year Karlatemp. All rights reserved.
+# @author Karlatemp <karlatemp@vip.qq.com> <https://github.com/Karlatemp>
+# @create 2020/03/27 23:07:00
+#
+# CommandInvokeHidden/CommandInvokeHidden/config.yml
+
+name: CommandInvokeHidden
+author: Karlatmep
+version: 1.0
+api-version: 1.13
+main: cn.mcres.karlatemp.cih.CommandInvokeHidden
+website: https://github.com/Karlatemp/CommandInvokeHidden
